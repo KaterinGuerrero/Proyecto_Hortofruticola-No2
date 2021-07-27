@@ -98,7 +98,7 @@
   transform: translatex(-600px);
 }
 
--elemento3:checked ~ .galeria_contenedor {
+.elemento3:checked ~ .galeria_contenedor {
   transform: translatex(-1200px);
 }
 
