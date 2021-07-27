@@ -66,3 +66,15 @@
   padding: 5px;
   border-radius: 3px;
 }
+
+
+/**************************/
+
+.galeria {
+  width: 100%;
+    heidht: 400px;
+  background: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
