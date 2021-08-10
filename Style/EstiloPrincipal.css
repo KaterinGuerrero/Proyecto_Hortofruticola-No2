@@ -185,3 +185,11 @@ label{
   text-align: center;
   color:white;
 }
+
+/*responsive desig */
+
+@media screen and (max-width: 600px){
+         .tienda{
+           grid-template: repeat(3, 300px) / repeat(1, 300px) ;
+           }
+}
