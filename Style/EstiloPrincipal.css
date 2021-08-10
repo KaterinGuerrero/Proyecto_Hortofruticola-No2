@@ -164,3 +164,19 @@ label{
 .tienda h3 {
   text-align:center;
 }
+/***************************************/
+
+.espacio {
+  position: relative;
+  height: 20px;
+}
+
+.PiePagina {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 105px;
+  brackground: #008B99;
+  align-content:center;
+}
+
