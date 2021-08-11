@@ -193,3 +193,41 @@ label{
            grid-template: repeat(3, 300px) / repeat(1, 300px) ;
            }
 }
+
+@media screen and (max-width: 600px){
+  
+  .Cabecera {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    height: 130px;
+  }
+  
+  .Cabecera figure {
+    width:130px;
+    Margin:Auto;
+  }
+  
+  .Cabecera img{
+    width:95px;
+    height:80px;
+  }
+  .Cabecera_h1 {
+    
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    
+  }
+  
+  .Cabecera_frase {
+    position: absolute;
+    top: 70px;
+    left: 100px;
+  }
+  
+  .nav {
+    display:none;
+  }
+  
+}
