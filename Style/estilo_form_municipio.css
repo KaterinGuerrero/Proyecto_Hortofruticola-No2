@@ -49,3 +49,9 @@ body {
   border: 1px solid darkgray;
   width: 100%;
 }
+
+.Tabla_botones {
+  text-align:center;
+  border: 1px solid darkgray;
+  
+}
