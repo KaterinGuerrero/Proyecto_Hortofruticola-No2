@@ -74,8 +74,8 @@ body {
 }
 
 .btn-modificar {
-  background: crimson;
-  color: #188B37;
+  background: #188B37;
+  color: #fff;
   margin: auto;
   padding: 10px 40px;
   cursor: pointer;
@@ -87,8 +87,8 @@ body {
 }
 
 .btn-buscar {
-  background: crimson;
-  color: #202C83;
+  background: #202C83;
+  color: #fff;
   margin: auto;
   padding: 10px 40px;
   cursor: pointer;
@@ -100,8 +100,8 @@ body {
 }
 
 .btn-eliminar {
-  background: crimson;
-  color: #F05D00;
+  background: #F05D00;
+  color: #fff;
   margin: auto;
   padding: 10px 40px;
   cursor: pointer;
@@ -113,8 +113,8 @@ body {
 }
 
 .btn-limpiar {
-  background: crimson;
-  color: black;
+  background: black;
+  color: #fff;
   margin: auto;
   padding: 10px 40px;
   cursor: pointer;
@@ -126,8 +126,8 @@ body {
 }
 
 .btn-retornar {
-  background: crimson;
-  color: #202C83;
+  background: #202C83;
+  color: #fff;
   margin: auto;
   padding: 10px 40px;
   cursor: pointer;
