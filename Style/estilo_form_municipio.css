@@ -73,7 +73,7 @@ body {
   transform: scale(1.05);
 }
 
-.btn-Modificar {
+.btn-modificar {
   background: #188B37;
   color: #fff;
   margin: auto;
@@ -82,6 +82,58 @@ body {
   border-radius: 7px;
 }
 
-.btn-Modificar: active {
+.btn-modificar: active {
+  transform: scale(1.05);
+}
+
+.btn-buscar {
+  background: #202C83;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-buscar: active {
+  transform: scale(1.05);
+}
+
+.btn-eliminar {
+  background: #F05D00;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-eliminar: active {
+  transform: scale(1.05);
+}
+
+.btn-limpiar {
+  background: black;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-limpiar: active {
+  transform: scale(1.05);
+}
+
+.btn-retornar {
+  background: #202C83;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-retornar: active {
   transform: scale(1.05);
 }
